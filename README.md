@@ -6,7 +6,7 @@
 ### <div align="center">A passionate frontend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [GitHub Profile](https://github.com/mdminhaj001) or [linkedin Profile](https://github.com/mdminhaj001](https://www.linkedin.com/in/md-minhaj-03930a297/))
+- 🔭 I’m currently working on [GitHub Profile](https://github.com/mdminhaj001) or [linkedin Profile](https://www.linkedin.com/in/md-minhaj-03930a297/)
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  

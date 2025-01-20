@@ -1,4 +1,4 @@
-### <div align="center">I'm Minhaj, a front-end developer 👨‍💻 </div>  
+### <div align="center">I'm Minhaj 👨‍💻 </div>  
   
 
 <div align="center">

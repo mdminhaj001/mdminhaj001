@@ -2,11 +2,11 @@
   
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQECHsV6xWzVsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725103265208?e=1735171200&v=beta&t=hoXm5B0LtN-123CZzTPArlJIVX2muBUgkMbSsKL3Sco" align="center" style="width: 100%" />
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQECHsV6xWzVsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725103265208?e=1735171200&v=beta&t=hoXm5B0LtN-123CZzTPArlJIVX2muBUgkMbSsKL3Sco](https://media.licdn.com/dms/image/v2/D5616AQECHsV6xWzVsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725103265208?e=1743638400&v=beta&t=mzTOvDKrXRGJH_12q577m-HdQBF3WfYureSx4dSfhaU)" align="center" style="width: 100%" />
 </div>  
   
 
-- 🔭 I’m working on [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) or [LinkedIn Profile](https://www.linkedin.com/in/md-minhaj-03930a297/)  
+- 🔭 I’m working on [GitHub Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/mdminhaj001)) or [LinkedIn Profile](https://www.linkedin.com/in/md-minhaj-03930a297/)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
